@@ -1,0 +1,34 @@
+[
+  {
+    "PurchaseOrderID": 1,
+    "Collection": "Personal",
+    "RevisionNumber": 0,
+    "Status": 5,
+    "Employee": "Jeffery Bezos",
+    "Vendor": "Amazon",
+    "ShipMethodID": 3,
+    "OrderDate": "2024-11-22 00:00:00",
+    "ShipDate": "2024-11-23 10:00:00",
+    "SubTotal":56.53,
+    "TaxAmt": 4.64,
+    "Freight": 0.00,
+    "TotalDue": 61.17,
+    "ModifiedDate": "2024-11-23 10:00:00",
+    "PurhcaseOrderDetails": [
+      {
+        "PurchaseOrderDetailID": 1,
+        "DueDate": "2024-11-24 11:00:00",
+        "OrderQty": 1,
+        "ProductName": "GMAT Official Guide 2024-2025 Bundle: Books + Online Question Bank",
+        "UnitPrice": 56.53,
+        "LineTotal": 56.53,
+        "ReceivedQty": 3.00,
+        "RejectedQty": 0.00,
+        "StockedQty": 3.00,
+        "ModifiedDate": "2024-11-23 10:00:00"
+      }
+    ]
+  }
+  
+]
+
